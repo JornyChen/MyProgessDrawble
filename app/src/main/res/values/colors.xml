@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!-- icon 颜色渐变-->
+    <color name="icon_green">#7ab149</color>
+    <color name="icon_blue">#4491d2</color>
+</resources>
