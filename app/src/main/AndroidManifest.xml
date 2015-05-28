@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="hello.test.cn.dialogtest" >
+    package="hello.test.cn.progress" >
 
     <application
         android:allowBackup="true"
@@ -8,7 +8,7 @@
         android:label="test"
          >
         <activity
-            android:name=".MainActivity"
+            android:name="hello.test.cn.progress.MainActivity"
             android:label="test" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

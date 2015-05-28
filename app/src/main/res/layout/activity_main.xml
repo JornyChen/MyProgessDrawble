@@ -22,7 +22,7 @@
         android:text="检测结束" />
 
 
-    <hello.test.cn.dialogtest.MyView
+    <hello.test.cn.progress.MyView
         android:id="@+id/myView"
         android:layout_width="20dip"
         android:layout_height="20dip"
